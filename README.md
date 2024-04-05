@@ -1,3 +1,6 @@
+#Capture d’écran
+![alt text](https://github.com/douCoder98/kubernetes-minikube/blob/main/Capture.png)
+
 # kubernetes-minikube
 
 Minikube is a tool that lets you run Kubernetes locally. 
